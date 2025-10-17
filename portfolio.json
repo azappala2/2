@@ -1,0 +1,134 @@
+{
+  "id": "7aeebf86-e598-42c4-9e76-dec56476d578",
+  "name": "Anthony Zappala",
+  "title": "Chemical Engineer",
+  "bio": "Chemical engineering graduate with experience in process design, electrochemistry, and automation.",
+  "aboutText": "Chemical engineering graduate with a strong foundation in process simulation, data analysis, and laboratory techniques. Passionate about applying technical expertise to develop sustainable technologies and innovative solutions.",
+  "projectsDescription": "Explore some of my recent work and personal projects that showcase my skills and passion for development.",
+  "contactIntro": null,
+  "footerDescriptors": [
+    "Innovation",
+    "Problem Solving",
+    "Technical Expertise"
+  ],
+  "theme": "default",
+  "themeColors": {
+    "text": "#1F2937",
+    "accent": "#F3F4F6",
+    "primary": "#0B3D91",
+    "secondary": "#17A2B8",
+    "background": "#FFFFFF"
+  },
+  "headshotImage": "",
+  "resumeUrl": "https://ik.imagekit.io/quickFolio99/users/8cd60fd3-0b7e-4453-b679-cac8b6832a05/7aeebf86-e598-42c4-9e76-dec56476d578/documents/resume-1760471315275_yzVgvK59y.pdf",
+  "resumeFilename": "AZ_resume_SiTration.pdf",
+  "referencesUrl": "https://ik.imagekit.io/quickFolio99/users/8cd60fd3-0b7e-4453-b679-cac8b6832a05/7aeebf86-e598-42c4-9e76-dec56476d578/documents/references-1760471322753_-7iy4YEdU.pdf",
+  "referencesFilename": "AZ_references_8_13_25.pdf",
+  "skillsDisplayMode": "categories",
+  "sectionOrder": [
+    "hero",
+    "about",
+    "projects",
+    "timeline",
+    "contact",
+    "theme"
+  ],
+  "projects": [],
+  "timeline": [
+    {
+      "id": "49796583-9e7e-4b98-977c-4268f10af02c",
+      "year": "2021-2022",
+      "title": "Lab Assistant",
+      "organization": "Koppes LNNR Lab",
+      "type": "experience",
+      "description": "Built skills in cell culture, neuron imaging, and recording neuron data from multielectrode arrays. Conducted independent project fabricating and analyzing organ-on-chips with custom meniscus-forming layer for dual-hydrogel chip. Synthesized hydrogels and cultured neurons for testing of neuron spike data."
+    },
+    {
+      "id": "6533cbae-3e12-4df8-b2dc-edc62cfe4980",
+      "year": "2022-2023",
+      "title": "Electrochemical Engineering Co-op",
+      "organization": "24M Technologies",
+      "type": "experience",
+      "description": "Collaborated with senior engineers on the development of traditional silicon anode technology by screening different silicon materials and optimizing slurry formulations for quality and performance. Evaluated silicon, graphite, and carbon materials using analytical techniques and half-cell testing; presented findings to partner companies and the 24M Advanced R&D team. Constructed and tested traditional and ‘semi-solid’ style batteries and investigated the effects of formulation, electrolyte, and test protocol on electrochemical metrics. Developed custom python scripts for processing of battery performance data."
+    },
+    {
+      "id": "a533850b-a622-4d78-b062-ae170e42a65b",
+      "year": "2023-2025",
+      "title": "Process Engineering Co-op",
+      "organization": "Technip Energies",
+      "type": "experience",
+      "description": "Created programs in Python and SQL for process automation and improved efficiency; used feedback from senior engineers to tailor programs for seamless workflow. Reviewed and edited various technical documents such as P&IDs, PFDs, BODs, and water balances for critical client deliverables. Analyzed, evaluated, and improved calculations on process equipment such as drums, distillation columns, and pumps, utilizing Excel, KG Tower, PD Plus, and other process simulation software."
+    },
+    {
+      "id": "bee5856f-5dea-4037-996b-b953c0549f3b",
+      "year": "2025-05-01",
+      "title": "Bachelor of Science in Chemical Engineering",
+      "organization": "Northeastern University",
+      "type": "education",
+      "description": "Summa Cum Laude, University Honors Program, Shillman Award Recipient"
+    }
+  ],
+  "skills": {
+    "categories": [
+      {
+        "id": "programming/software",
+        "name": "Programming/Software",
+        "displayOrder": 0,
+        "icon": "star"
+      },
+      {
+        "id": "laboratory/electrochemical_techniques",
+        "name": "Laboratory/Electrochemical Techniques",
+        "displayOrder": 1,
+        "icon": "star"
+      }
+    ],
+    "skills": {
+      "programming/software": [
+        "Python",
+        "SQL",
+        "Excel VBA",
+        "Simulink",
+        "Minitab",
+        "JMP",
+        "Microsoft Office",
+        "Aspen Plus",
+        "Tableau",
+        "AutoCAD",
+        "SolidWorks",
+        "Adobe Illustrator"
+      ],
+      "laboratory/electrochemical_techniques": [
+        "SEM",
+        "EDS",
+        "PSA",
+        "Pycnometry",
+        "Rheology",
+        "Conductivity",
+        "Battery Assembly",
+        "Rate Testing",
+        "EIS",
+        "Microscopy",
+        "Fluorescence Imaging",
+        "Live-Dead Quantification",
+        "Neuron Spike Train Analysis"
+      ]
+    }
+  },
+  "contact": {
+    "email": "anthonyzappala1@gmail.com",
+    "phone": "508-530-8842",
+    "linkedin": "",
+    "areasOfInterest": [
+      "Sustainable Technologies",
+      "Process Optimization",
+      "Electrochemical Systems",
+      "Materials Characterization"
+    ]
+  },
+  "links": {
+    "github": "",
+    "website": ""
+  },
+  "references": []
+}
